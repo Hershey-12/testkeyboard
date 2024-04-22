@@ -36,3 +36,41 @@
     transform: rotate(360deg);
   }
 }
+
+.d2{
+  text-align: left;
+}
+.logo{
+  width:300px;
+}
+body{
+    background-color: #CCE6C3; /* Mellow Green */
+
+}
+.navBar {
+  display: flex;
+  justify-content: center;
+}
+
+.navBar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.navBar ul li {
+  display: inline;
+  margin-right: 20px; /* Adjust spacing between navigation items */
+}
+
+.navBar ul li:last-child {
+  margin-right: 0; /* Remove margin from the last navigation item */
+}
+
+.navBar ul li a {
+  text-decoration: none;
+  color: #333; /* Adjust color of navigation links */
+  padding: 8px 16px; /* Add padding to create space around the link text */
+  border-radius: 5px; /* Add border radius to create rounded corners */
+  background-color: #f0f0f0; /* Add background color to the link container */
+  font-size: 30px;
+}

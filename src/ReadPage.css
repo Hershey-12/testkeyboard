@@ -1,0 +1,21 @@
+.readContainer{
+    max-width: 800px; /* Adjust the maximum width of the page content */
+    margin: 0 auto; /* Center the page content horizontally */
+    padding: 20px; /* Add padding to the page content */
+}
+.readContainer h1{
+    font-size: 40px;
+}
+
+.readlinks {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .readlinks li {
+    margin-bottom: 10px; /* Adjust spacing between links */
+  }
+  .readlinks a{
+  color: #333; /* Adjust color of links */
+  font-size: 22px; /* Adjust font size of links */
+  }
