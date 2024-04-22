@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/testkeyboard/static/css/main.f855e6bc.css",
-    "main.js": "/testkeyboard/static/js/main.0d66bc21.js",
+    "main.css": "/testkeyboard/static/css/main.c4b3123b.css",
+    "main.js": "/testkeyboard/static/js/main.86a549d4.js",
     "static/js/453.fe496e5b.chunk.js": "/testkeyboard/static/js/453.fe496e5b.chunk.js",
-    "static/media/logo.svg": "/testkeyboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Harshitha.jpeg": "/testkeyboard/static/media/Harshitha.60507f2fd8c48f7204f7.jpeg",
     "index.html": "/testkeyboard/index.html",
-    "main.f855e6bc.css.map": "/testkeyboard/static/css/main.f855e6bc.css.map",
-    "main.0d66bc21.js.map": "/testkeyboard/static/js/main.0d66bc21.js.map",
+    "main.c4b3123b.css.map": "/testkeyboard/static/css/main.c4b3123b.css.map",
+    "main.86a549d4.js.map": "/testkeyboard/static/js/main.86a549d4.js.map",
     "453.fe496e5b.chunk.js.map": "/testkeyboard/static/js/453.fe496e5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0d66bc21.js"
+    "static/css/main.c4b3123b.css",
+    "static/js/main.86a549d4.js"
   ]
 }
