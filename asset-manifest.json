@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/testkeyboard/static/css/main.c4b3123b.css",
+    "main.css": "/testkeyboard/static/css/main.1df1f762.css",
     "main.js": "/testkeyboard/static/js/main.86a549d4.js",
     "static/js/453.fe496e5b.chunk.js": "/testkeyboard/static/js/453.fe496e5b.chunk.js",
     "static/media/Harshitha.jpeg": "/testkeyboard/static/media/Harshitha.60507f2fd8c48f7204f7.jpeg",
     "index.html": "/testkeyboard/index.html",
-    "main.c4b3123b.css.map": "/testkeyboard/static/css/main.c4b3123b.css.map",
+    "main.1df1f762.css.map": "/testkeyboard/static/css/main.1df1f762.css.map",
     "main.86a549d4.js.map": "/testkeyboard/static/js/main.86a549d4.js.map",
     "453.fe496e5b.chunk.js.map": "/testkeyboard/static/js/453.fe496e5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4b3123b.css",
+    "static/css/main.1df1f762.css",
     "static/js/main.86a549d4.js"
   ]
 }
