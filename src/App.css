@@ -44,7 +44,8 @@
   width:300px;
 }
 body{
-    background-color: #CCE6C3; /* Mellow Green */
+    background-color: #F6E6D6; /* Mellow Green */
+    color: #3E6E66;
 
 }
 .navBar {
@@ -71,6 +72,6 @@ body{
   color: #333; /* Adjust color of navigation links */
   padding: 8px 16px; /* Add padding to create space around the link text */
   border-radius: 5px; /* Add border radius to create rounded corners */
-  background-color: #f0f0f0; /* Add background color to the link container */
+  background-color: #739A88; /* Add background color to the link container */
   font-size: 30px;
 }
