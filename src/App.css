@@ -2,17 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -44,13 +33,15 @@
   width:300px;
 }
 body{
-    background-color: #F6E6D6; /* Mellow Green */
-    color: #3E6E66;
+    background-color: #F6E6D6;
+    color: #6e3e60;
 
 }
 .navBar {
   display: flex;
   justify-content: center;
+  background-color: #444;
+  padding: 10px 0;
 }
 
 .navBar ul {
@@ -63,15 +54,16 @@ body{
   margin-right: 20px; /* Adjust spacing between navigation items */
 }
 
-.navBar ul li:last-child {
-  margin-right: 0; /* Remove margin from the last navigation item */
-}
-
 .navBar ul li a {
-  text-decoration: none;
-  color: #333; /* Adjust color of navigation links */
+  color: #f6e6d6; /* Adjust color of navigation links */
   padding: 8px 16px; /* Add padding to create space around the link text */
   border-radius: 5px; /* Add border radius to create rounded corners */
-  background-color: #739A88; /* Add background color to the link container */
+  background-color: #6e3e60; /* Add background color to the link container */
   font-size: 30px;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+.navBar a:hover {
+  text-decoration: underline;
 }

@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes, Link} from 'react-router-dom';
 import './App.css';
 import Home from './Home';
 import ReadPage from './ReadPage';
+import InterestPage from './InterestPage';
 
 function NavBar() {
   const navItemsRef = useRef([]);
@@ -38,6 +39,10 @@ function NavBar() {
         <li>
           <Link to="/read-page" ref={(el) => (navItemsRef.current[1] = el)}>Read Page</Link>
         </li>
+
+        <li>
+          <Link to="/interest-page" ref={(el) => (navItemsRef.current[2] = el)}>Interest Page</Link>
+        </li>
         {/* Add more navigation items as needed */}
       </ul>
     </nav>
@@ -52,6 +57,7 @@ function App() {
         <Routes>
           <Route index element={<Home />} />
           <Route path="/read-page" element={<ReadPage />} />
+          <Route path="/interest-page" element={<InterestPage />} />
           {/* Add more routes as needed */}
         </Routes>
       </div>

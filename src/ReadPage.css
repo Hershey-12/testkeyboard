@@ -2,6 +2,11 @@
     max-width: 800px; /* Adjust the maximum width of the page content */
     margin: 0 auto; /* Center the page content horizontally */
     padding: 20px; /* Add padding to the page content */
+    margin-bottom: 40px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 .readContainer h1{
     font-size: 40px;
@@ -11,11 +16,19 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    
   }
   .readlinks li {
     margin-bottom: 10px; /* Adjust spacing between links */
+    
   }
   .readlinks a{
   color: #333; /* Adjust color of links */
   font-size: 22px; /* Adjust font size of links */
-  }
+  text-decoration: none;
+}
+
+.readlinks a:hover{
+  text-decoration: underline;
+
+}
